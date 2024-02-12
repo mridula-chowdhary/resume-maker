@@ -5,13 +5,10 @@ import Body from "./components/Body/Body";
 
 function App() {
   return (
-    <>
-    <Header/>
     <div className="App">
     <Header />
       <Body />
     </div>
-    </>
   );
 }
 
